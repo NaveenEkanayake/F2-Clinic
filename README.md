@@ -3,7 +3,7 @@
 <!-- Logo with a clickable link -->
 <p align="center">
   <a href="https://lnkd.in/ezEh9_4K">
-    <img src="https://github.com/NaveenEkanayake/F2Clinic/blob/master/client/src/assets/images/logo.png" alt="Furry Pet Clinic Logo" width="50%">
+    <img src="https://github.com/NaveenEkanayake/F2-Clinic/blob/master/client/src/assets/images/logo.png" alt="Furry Pet Clinic Logo" width="50%">
   </a>
 </p>
 
