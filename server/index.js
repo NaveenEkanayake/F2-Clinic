@@ -48,6 +48,9 @@ app.use("/api", ContactUserRoute);
 app.use("/api", ApprovalRoute);
 app.use("/api", paymentRoute);
 
+app.get("/", (req, res) => {
+  res.json("hello!");
+});
 // Connect to MongoDB
 const MONGODB_URL = process.env.MONGODB_URL;
 const PORT = process.env.PORT || 3000;
